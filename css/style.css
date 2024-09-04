@@ -49,12 +49,14 @@ h6 {
 
 html {
     scroll-behavior: smooth;
+    
 }
 
 body {
     font-family: 'Rubik', sans-serif;
     font-size: 100%;
     font-weight: 400;
+  
 }
 
 a,
@@ -224,6 +226,7 @@ ol {
     -ms-transition: all 4s ease-in-out;
     -o-transition: all 4s ease-in-out;
     color: var(--text-color);
+  
 }
 @keyframes xfade{
     0% {
